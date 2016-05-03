@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Victor Mutelekesha]]></title>
         <description><![CDATA[Victor Mutelekesha]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/victor-mutelekesha/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 21:42:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 03 May 2016 10:56:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/victor-mutelekesha/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Awaiting]]></title>
+            <description><![CDATA[<article><h1>Awaiting</h1><p>Uploaded by Victor Mutelekesha on 2016-05-03.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f339d2a8afeaf7884297b4e46f4c7e225522a4d.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=YiBVA6QKOD8</link>
+            <guid isPermaLink="false">dae1c3c9-f076-4eee-8b40-a1f10a539359</guid>
+            <pubDate>Tue, 03 May 2016 10:56:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5bb5dd6-ec9c-42b3-9194-21301760396a.jpg">]]></description>
-            <link>undefinedawaiting/index.html</link>
+            <link>https://thegrid.ai/victor-mutelekesha/awaiting/index.html</link>
             <guid isPermaLink="false">1cc6e298-f45f-473b-ac68-f2a93b78ba66</guid>
             <pubDate>Wed, 27 Apr 2016 21:42:51 GMT</pubDate>
         </item>
