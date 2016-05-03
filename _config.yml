@@ -1,7 +1,7 @@
 name: Victor Mutelekesha
 favicon: null
-layout_spectrum: 0.84842
-typography_spectrum: 1
+layout_spectrum: 0.77063
+typography_spectrum: 0.82294
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#6e8086'
     - '#3e282a'
     - '#72003b'
-  brandStrength: 0.1875
+  brandStrength: 0
   lightness: 0
   saturation: 0.5
   rhythmicContrast: 0.25
