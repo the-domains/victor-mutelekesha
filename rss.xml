@@ -8,6 +8,20 @@
         <atom:link href="https://thegrid.ai/victor-mutelekesha/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b1ca663-e2da-4dd0-97e8-6926f136e03b.jpg">]]></description>
+            <link>https://thegrid.ai/victor-mutelekesha/lingua-topography-2013/index.html</link>
+            <guid isPermaLink="false">3a9d0049-4c77-41f9-8552-d7c5d8307c6d</guid>
+            <pubDate>Tue, 03 May 2016 10:56:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/09b6cf5a-34fb-421b-baae-44b700b1dd83.jpg">]]></description>
+            <link>https://thegrid.ai/victor-mutelekesha/awaiting-2015/index.html</link>
+            <guid isPermaLink="false">c6f36458-39dd-459c-b1cf-ececfd8550ca</guid>
+            <pubDate>Tue, 03 May 2016 10:56:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/59c24fd8-2384-45e6-b70f-6319b09b6c21.jpg">]]></description>
             <link>https://thegrid.ai/victor-mutelekesha/world-order-2014/index.html</link>
             <guid isPermaLink="false">c13d49ac-e99c-47f2-90b6-e727cc84bc4f</guid>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>final shadow of my shadow1</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/77df6a4056de22f692060dd43b01c683b81f3b24.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=ZUy3sQJhW7U</link>
             <guid isPermaLink="false">d6818ae0-deda-4144-920d-038b57cd5f0e</guid>
-            <pubDate>Tue, 03 May 2016 10:56:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Into the Sea]]></title>
-            <description><![CDATA[<article><h1>Into the Sea</h1><p>Uploaded by Victor Mutelekesha on 2016-05-03.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e43ebe1257762cd30c0aa68b44d310039a13e714.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=ERwn1Q6LQbU</link>
-            <guid isPermaLink="false">c76dbcb4-31dc-4a03-8f91-dc7130164a54</guid>
-            <pubDate>Tue, 03 May 2016 10:56:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[cry the beloved continent.avi]]></title>
-            <description><![CDATA[<article><h1>cry the beloved continent.avi</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a96b9ad3f354fe4c5244961ec99bdec1115be35.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=IFV26P5fEDc</link>
-            <guid isPermaLink="false">3bb83482-17d8-45a4-882f-db11fff8fec0</guid>
             <pubDate>Tue, 03 May 2016 10:56:42 GMT</pubDate>
         </item>
     </channel>
