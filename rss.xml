@@ -4,8 +4,15 @@
         <description><![CDATA[Victor Mutelekesha]]></description>
         <link>http://victormutelekesha.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 15:03:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2016 18:06:07 GMT</lastBuildDate>
         <atom:link href="http://victormutelekesha.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/459803aa-506c-42fa-ae70-3e3ecb357e00.jpg">]]></description>
+            <link>http://victormutelekesha.com/world-order/index.html</link>
+            <guid isPermaLink="false">26b732c0-f4a0-4ebe-9eec-50be7d02300e</guid>
+            <pubDate>Sun, 08 May 2016 18:05:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8fdfa3f-1f9b-4144-a1c8-2914310fe255.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://victormutelekesha.com/scramble-for-the-high-seas-2013/index.html</link>
             <guid isPermaLink="false">f85104bb-7a20-432b-bd1b-5f9ae132f970</guid>
             <pubDate>Tue, 03 May 2016 10:56:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/647e6059-88e9-4983-b760-7d0e2c558133.jpg">]]></description>
-            <link>http://victormutelekesha.com/dale/index.html</link>
-            <guid isPermaLink="false">a37767b2-5f66-487b-bbc1-d0911aa7c746</guid>
-            <pubDate>Tue, 03 May 2016 10:56:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
