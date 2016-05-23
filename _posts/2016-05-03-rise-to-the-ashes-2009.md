@@ -5,17 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Rise to the ashes. 2009
-datePublished: '2016-05-05T11:06:02.073Z'
-dateModified: '2016-05-05T11:05:21.703Z'
+datePublished: '2016-05-23T08:03:43.937Z'
+dateModified: '2016-05-23T08:03:43.234Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-03-rise-to-the-ashes-2009.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: rise-to-the-ashes-2009/index.html
 _type: Article
@@ -25,36 +21,14 @@ _type: Article
 
 Rise to the ashes. 2009
 
-"Halo"
+"Rise to the ashes"
 
-This projects explores a very unusual configuration between the signifier of spiritual holiness (the halo) and the stem cells, an attempt
+This sculpture installation depicts a model of the world map topography but if you look carefully you realize the adulations are not in
 
-which could be as bizarre as it might get in this desire to heal part of the human condition influenced by "Identity."
+correspondence with the real geography of the world map, as we know it. What you see is a reflection two different statistical data that
 
-Here identical forms derived from stem cells that are about to grow into neurons hangs in space forming a circular resemblance of the
+show a distribution and concentration of higher GDPs and processed global wealth and places where you find the some of the biggest
 
-halo (the halo Jean-Michel Basquiat might have painted above most of his characters identifying the spiritual connection of sort in them)
+open pit mines in the world representing places of extraction and subsequent deployment of those commodities.
 
-and as you enter the space the installation above you senses your presence in between then and instantly glow to life. You become the
-
-conduit that completes a circuit of life. For a moment the feud between science and spirituality loses traction because the very basic
-
-building block of the human body (stem cells) at a stage when they are so pure and clean without any blemish of physical "identity"
-
-takes the symbolism of spiritual purity when the broken halo is brought back to life.
-
-The feud between creationist and evolutionist has protracted for too long degen‐ eration the human condition in the process. But the
-
-urgency of now is over‐ whelming to put things right so I do not seek a compromise of any sort but I intend to image a solution 'the third
-
-perspective if you so wished".
-
-The third perspective being sort is that of neutral human identity if such can ever be archived. Note one very important feature in the
-
-video provided; the light emitted from the crystal glass is blue; one colure that form a single sky for all humanity. As it lights up every time
-
-any individual passes it confirms your humanness regardless of your Physical, Racial, creed, religion, sex or other wise
-
-Interactive Sculptural installation 
-
-Dimensions for installation varies. Made using blown glass and lighting technology.
+Plywood. 145X122X60cm
