@@ -5,18 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Mindscape.
-datePublished: '2016-05-08T18:21:22.864Z'
-dateModified: '2016-05-08T18:20:09.902Z'
+datePublished: '2016-08-24T05:37:42.843Z'
+dateModified: '2016-08-24T05:37:42.018Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-08-mindscape.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+via: {}
 starred: false
-sourcePath: _posts/2016-05-08-mindscape.md
 url: mindscape/index.html
 _type: Article
 
