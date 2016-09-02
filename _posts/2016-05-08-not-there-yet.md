@@ -1,27 +1,24 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: Not there yet.
-datePublished: '2016-05-08T18:53:32.927Z'
-dateModified: '2016-05-08T18:53:23.270Z'
-title: ''
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-starred: false
+datePublished: '2016-08-31T09:45:49.145Z'
 sourcePath: _posts/2016-05-08-not-there-yet.md
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-31T09:45:48.416Z'
+title: ''
+publisher: {}
+description: Not there yet.
+inLanguage: null
+inNav: false
+starred: false
 url: not-there-yet/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca994c2d-1b55-4ca3-a90e-766057147491.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f50e5b3cce9b4f67e1e5d32e4eab1994f131bca4.jpg)
 
 Not there yet.
 
