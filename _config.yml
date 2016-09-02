@@ -1,20 +1,4 @@
-name: Victor Mutelekesha
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.99929
-title: Victor Mutelekesha
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#c5c5c5'
@@ -26,4 +10,23 @@ color:
   lightness: 0
   saturation: 0
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Victor Mutelekesha
+  email: victor.mutelekesha@gmail.com
+name: Victor Mutelekesha
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Victor Mutelekesha
 purpose: []
