@@ -1,28 +1,24 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: Mindscape.
-datePublished: '2016-08-24T05:37:42.843Z'
-dateModified: '2016-08-24T05:37:42.018Z'
-title: ''
-author: []
+datePublished: '2016-08-31T09:48:00.333Z'
 sourcePath: _posts/2016-05-08-mindscape.md
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author: []
 via: {}
+dateModified: '2016-08-31T09:47:59.659Z'
+title: ''
+publisher: {}
+description: Mindscape.
+inLanguage: null
+inNav: false
 starred: false
 url: mindscape/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce9a3d3e-dfc4-476c-b140-efb15f852d02.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a88f28145db8c2f5f880b058a71f4b76dacbad7d.jpg)
 
 Mindscape.
 
